@@ -9,7 +9,7 @@ Everything in JavaScript is an object. Understanding object allocation, construc
 **What's in this class?**
 
 
-* <a href="https://www.eventedmind.com/classes/javascript-objects/introduction" target="_blank">Introduction: JavaScript Objects</a> - 
+* <a href="https://www.eventedmind.com/classes/javascript-objects/introduction" target="_blank">Introduction: JavaScript Objects</a> - Let's review what will be covered in this class.
 
 * <a href="https://www.eventedmind.com/classes/javascript-objects/what-are-objects" target="_blank">What are Objects?</a> - In this video I'll introduce the object data type and object properties. Then I'll show you how you can visualize objects and containers or tables of property keys and values.
 
