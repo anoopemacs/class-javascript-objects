@@ -1,0 +1,2 @@
+myVar = [];
+myOtherVar = myVar;
